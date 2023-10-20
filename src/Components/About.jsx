@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am Rouitanko Madi, and I am honored to serve as a Microsoft Student Ambassador at. As a passionate advocate for technology and innovation, I have taken on the role of bridging the gap between our vibrant student community and the world of Microsoft technologies.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Linux Administration",
+  "Networking Cisco, Huawei, Mikrotik",
+  "Azure",
+  "Flask Framework",
+  "Python programming",
+  "Database management system",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a highly qualified computer and network engineer. I have a solid understanding of cloud technologies,networks and systems, and I have expertise in web developpement and in implementating and managing cloud infrastucture. I am also a passionate and a team player, and I have a strong ability to communicate and collaborate with others.";
 
 const About = () => {
   return (
