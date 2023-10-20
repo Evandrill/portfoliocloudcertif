@@ -27,12 +27,12 @@ const siteProps = {
   name: "Rouitanko Madi Betsaleel",
   title: "Devops Engineer & System Administration Engineer & Network Engineer",
   email: "rouitankomadib@gmai.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  gitHub: "https://github.com/Betsaleel237",
+  instagram: "",
+  linkedIn: "https://www.linkedin.com/in/rouitanko-madi-betsaleel-860865233/",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "https://www.youtube.com/channel/UClITLiJ50V1ZKuPDfz7wXkQ",
 };
 
 const primaryColor = "#4E567E";
